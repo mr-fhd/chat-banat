@@ -907,7 +907,7 @@ label#login-form__hidden-label {
 marquee.marquee:before {
     white-space: nowrap;
     margin-left: 78px;
-    content: "\00a9 أستايلات : FHD ";
+    content: "\00a9 FHD : تصميم ";
     color: #fefffc;
     font-size: 12px;
     position: absolute;
@@ -932,7 +932,7 @@ h3.label.label-primary.chat_pane__header__title {
     border-radius: 59px 0 68px 0;
     /* width: 130px; */
     margin-left: 63px!important;
-    background: linear-gradient(-45deg,#cc31cc,pink,#ddcecd,#000000d1);
+    background: linear-gradient(-45deg,#cc31cc,pink,#ddcecd,#00000042);
     background-size: 400% 400%;
 }
 
