@@ -811,7 +811,11 @@ li#chat__footer__menu__settings_item {
     border-radius: 5px;
 }
 
-li#chat__footer__menu__live_item {
+li#chat__footer__menu__tv_item {
+    border-radius: 5px;
+	background-image: radial-gradient(circle,#b31f30,#b31f30,#bb4a57) !important;
+}
+li#chat__footer__menu__cam_item {
     border-radius: 5px;
 	background-image: radial-gradient(circle,#b31f30,#b31f30,#bb4a57) !important;
 }
